@@ -55,12 +55,14 @@ article{
 section#joaninha article{
     background-color: rgba(0, 0, 0, 0.407);
     display: inline-block;
+    
 }
 section#joaninha{
     background-image: url(img/joaninha.jpg);
     background-size: cover ;
     background-attachment: fixed;
     color: white;
+    background-position: right center ;
 }
 section#folhas article{
     background-color: rgba(0, 0, 0, 0.407);
@@ -71,6 +73,7 @@ section#folhas{
     background-size: cover ;
     background-attachment: fixed;
     color: white;
+    background-position: right center ;
 }
 
 /*-----------------main---------------------*/
